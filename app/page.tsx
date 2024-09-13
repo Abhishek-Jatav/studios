@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="justify-center items-center">
-      <div>No going to anywhere</div>
+    <div className="flex flex-1 flex-col mt-10 justify-center items-center">
+      <div>Are You Going Where</div>
       <div>
-        When <strong>Studios</strong>is here
+        When <strong>Studios</strong> is here
       </div>
     </div>
   );
